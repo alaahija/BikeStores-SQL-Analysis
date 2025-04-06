@@ -60,8 +60,6 @@ Key Insights:
 *Identified most popular product categories by customer
 ```sql
 ### 2. Product & Inventory Analysis
-
-```sql
 -- Product performance by brand and category
 -- Inventory status classification
 -- Product availability across stores
