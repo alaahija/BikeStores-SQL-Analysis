@@ -58,7 +58,7 @@ Key Insights:
 *Segmented customers into Active/Lapsing/At Risk/Lost categories
 *Calculated 3-year projected customer value
 *Identified most popular product categories by customer
-
+```sql
 ### 2. Product & Inventory Analysis
 ```sql
 -- Product performance by brand and category
@@ -68,6 +68,7 @@ Key Insights:
 -- Monthly sales trends with YoY comparisons
 -- 12-month rolling averages
 -- Category-specific sales patterns
+```sql
 ### 3.Sales Trend Analysis
 ```sql
 -- Monthly sales trends with YoY comparisons
@@ -77,6 +78,7 @@ Key Insights:
 *Identified seasonal sales patterns
 *Calculated year-over-year growth rates
 *Tracked category performance over time
+```sql
 ### 4.Operational Metrics
 ```sql
 -- Order fulfillment timing analysis
@@ -86,6 +88,6 @@ Key Insights:
 *Average order processing time: 2.3 days
 *Top salesperson generated $125,000 last quarter
 *Identified highest performing stores
-
+```sql
 
 
