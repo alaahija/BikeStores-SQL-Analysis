@@ -54,18 +54,4 @@ The database contains these key tables:
 -- Customer segmentation by value and activity
 -- Lifetime value calculations
 -- Purchase frequency analysis
-### 2. Product Performance
-```sql
--- Revenue by brand/category
--- Inventory status classification
--- Store availability metrics
-### 3. Sales Trends
-```sql
--- Order fulfillment timing
--- Staff productivity rankings
--- Store performance comparisons
-### 4. Operational Metrics
-```sql
--- Order fulfillment timing
--- Staff productivity rankings
--- Store performance comparisons
+
