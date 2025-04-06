@@ -113,14 +113,6 @@ The project showcases the power of data in making informed business decisions an
 
 ---
 
-## 📧 **Contact**
-
-If you have any questions or feedback about the project, feel free to reach out:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-
----
 
 ## 🎨 **Icons & Acknowledgements**
 
