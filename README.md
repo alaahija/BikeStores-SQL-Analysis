@@ -54,4 +54,15 @@ The database contains these key tables:
 -- Customer segmentation by value and activity
 -- Lifetime value calculations
 -- Purchase frequency analysis
+Key Insights:
 
+Segmented customers into Active/Lapsing/At Risk/Lost categories
+
+Calculated 3-year projected customer value
+
+Identified most popular product categories by customer
+
+2. Product & Inventory Analysis
+-- Product performance by brand and category
+-- Inventory status classification
+-- Product availability across stores
