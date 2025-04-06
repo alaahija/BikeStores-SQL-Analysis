@@ -90,4 +90,29 @@ Key Insights:
 *Identified highest performing stores
 ```sql
 
+📊 Sample Findings
+Customer Insights:
+
+18% of customers account for 62% of total revenue
+
+Average CLV: $1,850 (3-year projection)
+
+Inventory Optimization:
+
+12 products consistently understocked
+
+8 products overstocked by >30%
+
+Sales Trends:
+
+Q2 sales peak: 28% above average
+
+Electric bikes growth: 15% YoY
+
+Staff Performance:
+
+Top performer: 40% above average sales
+
+Processing time range: 1-5 days
+
 
