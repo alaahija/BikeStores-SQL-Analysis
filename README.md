@@ -59,28 +59,11 @@ Key Insights:
 *Calculated 3-year projected customer value
 *Identified most popular product categories by customer
 ```sql
+### 2. Product & Inventory Analysis
 
----
-
-### Explanation of the Sections:
-
-1. **Product & Inventory Analysis:**
-   - This section focuses on product performance, inventory classification, and availability across stores.
-   - Insights give an overview of the analysis, like identifying overstock and understock issues and tracking sales trends.
-
-2. **Sales Trend Analysis:**
-   - This section describes how sales are tracked over time, comparing monthly and YoY trends, as well as analyzing specific product categories.
-   - Key insights focus on identifying seasonal trends, growth rates, and tracking category performance.
-
-3. **Operational Metrics:**
-   - This analysis involves order fulfillment, tracking staff sales performance, and benchmarking store performance.
-   - Insights include average processing times, top-performing staff, and store comparison metrics.
-
-4. **Sample Findings:**
-   - These findings are a quick summary of key insights related to customer behavior, inventory, sales trends, and staff performance, with specific data points like revenue concentration, inventory optimization needs, sales peak trends, and staff performance metrics.
-
----
-
-This structured format will ensure that your `README.md` file looks clear, professional, and easy to read for anyone exploring your project.
+```sql
+-- Product performance by brand and category
+-- Inventory status classification
+-- Product availability across stores
 
 
