@@ -55,14 +55,37 @@ The database contains these key tables:
 -- Lifetime value calculations
 -- Purchase frequency analysis
 Key Insights:
+*Segmented customers into Active/Lapsing/At Risk/Lost categories
+*Calculated 3-year projected customer value
+*Identified most popular product categories by customer
 
-Segmented customers into Active/Lapsing/At Risk/Lost categories
-
-Calculated 3-year projected customer value
-
-Identified most popular product categories by customer
-
-2. Product & Inventory Analysis
+### 2. Product & Inventory Analysis
+```sql
 -- Product performance by brand and category
 -- Inventory status classification
 -- Product availability across stores
+Key Insights:
+-- Monthly sales trends with YoY comparisons
+-- 12-month rolling averages
+-- Category-specific sales patterns
+### 3.Sales Trend Analysis
+```sql
+-- Monthly sales trends with YoY comparisons
+-- 12-month rolling averages
+-- Category-specific sales patterns
+Key Insights:
+*Identified seasonal sales patterns
+*Calculated year-over-year growth rates
+*Tracked category performance over time
+### 4.Operational Metrics
+```sql
+-- Order fulfillment timing analysis
+-- Staff sales rankings and peer comparisons
+-- Store performance benchmarks
+Key Insights:
+*Average order processing time: 2.3 days
+*Top salesperson generated $125,000 last quarter
+*Identified highest performing stores
+
+
+
