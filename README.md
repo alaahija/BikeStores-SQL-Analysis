@@ -104,6 +104,11 @@ To run the queries in this project, follow these steps:
 3. **Visualizing Results**: If you want to visualize the results, consider exporting the query results into CSV files and loading them into data visualization tools such as Power BI or Tableau for further exploration.
 
 ---
+## Data Source
+
+The data used in this analysis comes from the Kaggle dataset: [Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database?select=stores.csv).
+
+---
 
 ## 📚 **Conclusion**
 
